@@ -31,7 +31,7 @@ La salida se genera en un archivo CSV formateado, facilitando la lectura y el an
 1.  Clona el repositorio:
 
     ```bash
-    git clone [FromatoDataJSON](https://github.com/DanielRodZa/FortmatoDataJSON.git)
+    git clone https://github.com/DanielRodZa/FortmatoDataJSON.git
     ```
 
 2. Instala las dependencias:
