@@ -45,7 +45,7 @@ La salida se genera en un archivo CSV formateado, facilitando la lectura y el an
 1.  Ejecuta el script:
 
     ```bash
-    python extraer_json_a_csv.py
+    python main.py
     ```
 
     El script obtendrá los datos de la URL predefinida y generará el archivo `datos_formateados.csv` en el mismo directorio.
